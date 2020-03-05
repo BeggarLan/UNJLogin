@@ -1,8 +1,5 @@
 /** 
 * DES加密解密 
-* @Copyright Copyright (c) 2006 
-* @author Guapo 
-* @see DESCore 
 */  
   
 /* 
