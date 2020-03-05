@@ -40,7 +40,7 @@ public class Login {
     public static void main(String[] args) {
         trustEveryone();
         String username = "";     //账号
-        String password = "";      //密码
+        String password = "";            //密码
         Login o = new Login();
         o.init();
         o.start(username,password);
